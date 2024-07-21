@@ -27,7 +27,7 @@
 #' plot = TRUE, xlab = "mpg", ylab = "wt", plottheme = "theme_grey()", download = FALSE)
 #'
 #' @export
-RPregression <- function(x, y, table = "text", plot = FALSE,
+RPregressionEAH2 <- function(x, y, table = "text", plot = FALSE,
                          xlab = "", ylab = "", title = "", subtitle = "", caption = "", 
                          plottheme = "theme_grey()", download = FALSE, 
                          color_points = "black", color_line = "red", 
