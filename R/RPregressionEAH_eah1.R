@@ -23,7 +23,7 @@
 #' 
 #' @return If plot is TRUE, a plot is generated. Otherwise, a regression table is printed.
 #' @examples
-#' RPregression(mtcars$mpg, mtcars$wt, table = "text", title = "Regression Analysis",
+#' RPregressionEAH2_eah1(mtcars$mpg, mtcars$wt, table = "text", title = "Regression Analysis",
 #' plot = TRUE, xlab = "mpg", ylab = "wt", plottheme = "theme_grey()", download = FALSE)
 #'
 #' @export
