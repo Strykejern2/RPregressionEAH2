@@ -1,4 +1,4 @@
-export(RPregressionEAH)
+export(RPregressionEAH2)
 importFrom(ggplot2, ggplot, aes, geom_point, geom_smooth, labs, theme_set, theme_grey, geom_errorbar)
 importFrom(stargazer, stargazer)
 importFrom(stats, lm, predict, residuals)
