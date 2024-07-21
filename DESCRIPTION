@@ -1,4 +1,4 @@
-Package: RPregressionEAH
+Package: RPregressionEAH2
 Type: Package
 Title: A Simple Regression and Plotting Tool
 Version: 0.1.0
@@ -9,7 +9,5 @@ Depends: R (>= 3.5.0)
 Imports: stargazer, ggplot2, stats
 NeedsCompilation: no
 Packaged: 2024-06-14 10:55:22 UTC; raghavpuri
-Author: Raghav Puri [aut, cre]
-Maintainer: Erling <itsraghavpuri@gmail.com>
-
+Maintainer: Erling 
 
