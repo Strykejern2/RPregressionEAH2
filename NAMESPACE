@@ -1,0 +1,7 @@
+export(RPregressionEAH)
+importFrom(ggplot2, ggplot, aes, geom_point, geom_smooth, labs, theme_set, theme_grey, geom_errorbar)
+importFrom(stargazer, stargazer)
+importFrom(stats, lm, predict, residuals)
+importFrom(ggplot2, ggsave)
+importFrom(stats, as.formula)
+
